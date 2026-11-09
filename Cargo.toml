@@ -1,0 +1,11 @@
+[package]
+name = "ude"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+alacritty_terminal = "0.26"
+futures = "0.3"
+gpui-kit = "0.9.0"
+gpui-webview = "0.9.0"
+wry = { version = "0.53.3", package = "lb-wry" }
